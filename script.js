@@ -1,7 +1,7 @@
 let audios = [
     {caminho:'queroserfeliz.mp3', legenda:'Quero ser feliz tambem'},
-    {caminho:'Arash.mp3', legenda:'Arash'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'menamora.mp3', legenda:'Me namora'},
+    {caminho:'presentedeumbeijaflor.mp3', legenda:'Presente de um beija-flor'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
