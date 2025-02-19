@@ -1,7 +1,7 @@
 let audios = [
-    {caminho:'queroserfeliz.mp3', legenda:'Quero ser feliz tambem'},
-    {caminho:'menamora.mp3', legenda:'Me namora'},
-    {caminho:'presentedeumbeijaflor.mp3', legenda:'Presente de um beija-flor'},
+    {caminho:'matuto.mp3', legenda:'Matuto de verdade'},
+    {caminho:'Arash.mp3', legenda:'Arash'},
+    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
@@ -17,8 +17,6 @@ for (let i=0; i < 9; i++){
     legendas[i].textContent = audios[i].legenda;
     botoes[i].setAttribute('data-item', i);
 }
-
-
 
 let audioTag = document.querySelector('audio');
 
