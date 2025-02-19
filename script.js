@@ -18,6 +18,8 @@ for (let i=0; i < 9; i++){
     botoes[i].setAttribute('data-item', i);
 }
 
+
+
 let audioTag = document.querySelector('audio');
 
 botoes.forEach(botao => {
